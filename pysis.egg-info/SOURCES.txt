@@ -1,10 +1,10 @@
 LICENSE
 README.md
 setup.py
-pysis/__init__.py
-pysis/analyze.py
-pysis.egg-info/PKG-INFO
-pysis.egg-info/SOURCES.txt
-pysis.egg-info/dependency_links.txt
-pysis.egg-info/requires.txt
-pysis.egg-info/top_level.txt
+pyziz/__init__.py
+pyziz/analyze.py
+pyziz.egg-info/PKG-INFO
+pyziz.egg-info/SOURCES.txt
+pyziz.egg-info/dependency_links.txt
+pyziz.egg-info/requires.txt
+pyziz.egg-info/top_level.txt

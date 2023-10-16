@@ -14,7 +14,7 @@ def _print_colored_text(text, color):
 
 def print_header():
     """Prints the header for the analysis report."""
-    _print_colored_text("Welcome to Pysis", 'blue')
+    _print_colored_text("Welcome to pyziz", 'blue')
     _print_colored_text("Python Code Analysis Report", 'blue')
     _print_colored_text("="*140, 'blue')
 

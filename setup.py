@@ -12,7 +12,7 @@ DESCRIPTION = 'Python code analysis'
 LONG_DESCRIPTION = 'A package that allows to analyze your python project.'
 
 setup(
-    name="pysis",
+    name="pyziz",
     version=VERSION,
     author="Henok Biadglign Ademtew",
     author_email="<henokb2124@gmail.com>",
