@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pysis
+Version: 0.0.1
+Summary: Python code analysis
+Author: Henok Biadglign
+Author-email: <henokb2124@gmail.com>
+Keywords: python,python project,code analysis
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: twine>=4.0.2; extra == "dev"
+
+A package that allows to analyze your python project.

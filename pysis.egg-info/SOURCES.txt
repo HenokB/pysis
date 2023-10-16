@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pysis/__init__.py
+pysis/analyze.py
+pysis.egg-info/PKG-INFO
+pysis.egg-info/SOURCES.txt
+pysis.egg-info/dependency_links.txt
+pysis.egg-info/requires.txt
+pysis.egg-info/top_level.txt
